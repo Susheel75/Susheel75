@@ -1,4 +1,4 @@
-<img src="susheel.jpg" height="50px" width="50px" align="right">
+<img src="susheel.jpg" height="250px" width="250px" align="right">
 <h1 align="center">Hi 👋, I'm Susheel Prajapati</h1>
 <h3 align="center">I'm a student of computer science & engineering from galgotias university.</h3>
 
