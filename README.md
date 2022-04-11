@@ -1,3 +1,4 @@
+<img src="susheel.png" height="50px", width="50px">
 <h1 align="center">Hi 👋, I'm Susheel Prajapati</h1>
 <h3 align="center">I'm a student of computer science & engineering from galgotias university.</h3>
 
