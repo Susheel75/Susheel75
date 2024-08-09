@@ -1,6 +1,11 @@
-<img src="susheel.jpg" height="200px" width="200px" align="right">
+
 <h1 align="center">Hi 👋, I'm Susheel Prajapati</h1>
 <h3 align="center">I'm a student of computer science & engineering from galgotias university.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=susheel75&label=Profile%20views&color=0e75b6&style=flat" alt="susheel75" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susheel75" alt="susheel75" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
