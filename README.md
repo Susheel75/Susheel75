@@ -10,7 +10,6 @@
 
 ⦿ Learn more about my experiences by reading on: https://drive.google.com/file/d/1jOzussK9hSdzc0A_9RQU-aBQWjMrfXob/view
 
-<p align="center"> <img src="C:\Users\HP\Downloads\QR.png"/> </p>
 ⦿ https://github.com/user-attachments/assets/fd64c5e5-9efe-4c1c-bcbd-6fbb57bfd27d
 
 
