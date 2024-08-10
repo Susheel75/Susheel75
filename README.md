@@ -6,7 +6,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susheel75" alt="susheel75" /></a> </p>
 
-How to reach me:
+⦿ How to get in touch with me: psusheel75@gmail.com
+
+⦿ Learn more about my experiences by reading on: https://drive.google.com/file/d/1jOzussK9hSdzc0A_9RQU-aBQWjMrfXob/view
+
+
+⦿ https://github.com/user-attachments/assets/fd64c5e5-9efe-4c1c-bcbd-6fbb57bfd27d
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/psusheel75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/psusheel75" height="30" width="40" /></a>
