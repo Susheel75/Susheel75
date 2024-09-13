@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Susheel Prajapati</h1>
-<h3 align="center">|| Full Stack developer || </h3>
+<h3 align="center">|| Full Stack developer ||    || Galgotias University ' 24 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susheel75&label=Profile%20views&color=0e75b6&style=flat" alt="susheel75" /> </p>
 
