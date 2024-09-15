@@ -3,16 +3,17 @@
 <h3 align="center">|| Full Stack developer ||    || Galgotias University ' 24 || </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susheel75&label=Profile%20views&color=0e75b6&style=flat" alt="susheel75" /> </p>
-
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" class="center"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susheel75" alt="susheel75" /></a> </p>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"><br>
 ⦿ How to get in touch with me: psusheel75@gmail.com
 
 ⦿ Learn more about my experiences by reading on: https://drive.google.com/file/d/1jOzussK9hSdzc0A_9RQU-aBQWjMrfXob/view
 
 ⦿ https://github.com/user-attachments/assets/fd64c5e5-9efe-4c1c-bcbd-6fbb57bfd27d
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
