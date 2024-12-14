@@ -14,7 +14,8 @@
 </div>
   </div>
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susheel75" alt="susheel75" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susheel75&theme=monokai" alt="susheel75" /></a> </p>
+<!-- <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=susheel75&theme=monokai" -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"><br>
 ⦿ How to get in touch with me: psusheel75@gmail.com
